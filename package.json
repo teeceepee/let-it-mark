@@ -1,0 +1,11 @@
+{
+  "name": "let-it-mark",
+  "version": "0.0.1",
+  "dependencies": {
+    "uglify-js": "latest"
+  },
+  "description": "Bookmarklet generator.",
+  "main": "index.js",
+  "author": "Yu Haidong",
+  "license": "MIT"
+}
